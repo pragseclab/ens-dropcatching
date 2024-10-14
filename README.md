@@ -24,6 +24,7 @@ This repository includes the artifacts from the Internet Measurement Conference 
         3. domains/: Contains domain names and their creation dates.
 
 If you use this work, please use the next citation:
+
 `@inproceedings{muzammil2024expiredens,
   title = {{Panning for gold.eth: Understanding and Analyzing ENS Domain Dropcatching}},
   author = {Muhammad Muzammil and ZhengYu Wu and Aruna Balasubramanian and Nick Nikiforakis},
