@@ -27,7 +27,8 @@ This collection methodology is also applied in our work **Typosquatting 3.0: Cha
 
 If you use this work, please use the next citations:
 
-`@inproceedings{muzammil2024expiredens,
+```
+@inproceedings{muzammil2024expiredens,
   title = {{Panning for gold.eth: Understanding and Analyzing ENS Domain Dropcatching}},
   author = {Muhammad Muzammil and ZhengYu Wu and Aruna Balasubramanian and Nick Nikiforakis},
   booktitle = {Proceedings of the Internet Measurement Conference (IMC)},
@@ -40,4 +41,4 @@ If you use this work, please use the next citations:
   booktitle = {Proceedings of the Symposium on Electronic Crime Research (eCrime)},
   year = {2024},
 }
-`
+```
