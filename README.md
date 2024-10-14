@@ -12,7 +12,8 @@ This repository includes the artifacts from the Internet Measurement Conference 
 
     - Requirements
         1. Python 3.x
-        2. requests and logging libraries
+        2. `requests` and `logging` libraries
+        3. GraphQL API Key (update within the script)
 
     - Running the script:
         - `python3 get-ens-domains.py`
