@@ -23,13 +23,21 @@ This repository includes the artifacts from the Internet Measurement Conference 
         2. domain-events/: Contains events such as new ownership, transfers, and wrapping.
         3. domains/: Contains domain names and their creation dates.
 
-If you use this work, please use the next citation:
+This collection methodology is also applied in our work **Typosquatting 3.0: Characterizing Squatting in Blockchain Naming Systems** ([(PDF)](https://github.com/pragseclab/ens-dropcatching)).
+
+If you use this work, please use the next citations:
 
 `@inproceedings{muzammil2024expiredens,
   title = {{Panning for gold.eth: Understanding and Analyzing ENS Domain Dropcatching}},
   author = {Muhammad Muzammil and ZhengYu Wu and Aruna Balasubramanian and Nick Nikiforakis},
   booktitle = {Proceedings of the Internet Measurement Conference (IMC)},
   year = {2024},
-}`
+}
 
-Side note: Our paper in APWG eCrime 2024 explores typosquatting attacks against Blockchain Naming Systems ([(PDF)](https://github.com/pragseclab/ens-dropcatching))
+@inproceedings{muzammil2024web3typos,
+  title = {{Typosquatting 3.0: Characterizing Squatting in Blockchain Naming Systems}},
+  author = {Muhammad Muzammil and ZhengYu Wu and Lalith Harisha and Brian Kondracki and Nick Nikiforakis},
+  booktitle = {Proceedings of the Symposium on Electronic Crime Research (eCrime)},
+  year = {2024},
+}
+`
